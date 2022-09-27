@@ -4,7 +4,7 @@
 
 - In this study (Rissaki et al 2023), the program that was used to run simulations for the heat source calibration was FEAT-WMT. In case of another program used for simulations, the code should be modified according to the format of output files.
 
-- The many simulations of this study were run automatically with a shell script in Manchester University computational shared facility. The core code of the shell script consists of a for loop and a 'sed' command which replaces a line of a file with another line, so to change a variable value as desired.
+- The many simulations of this study were run automatically with a shell script in Manchester University computational shared facility. The core code of the shell script consisted of a for loop and a 'sed' command which replaced a line of a file with another line, so to change a variable value as desired.
 
 - For more information and any question please contact Dimitra Rissaki via email: dimrissaki@gmail.com
 
