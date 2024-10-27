@@ -1,4 +1,6 @@
-- This repository contains the core code used in the paper "Establishing an automated heat source calibration framework", Rissaki et al, 2023
+- This repository contains the core code used in the paper "Establishing an automated heat source calibration framework", Rissaki et al, 2023 DOI:10.3217/978-3-85125-968-1-12
+https://diglib.tugraz.at/download.php?id=650c3e202beb7&location=datacite
+https://www.researchgate.net/publication/374754787_Establishing_an_automated_heat-source_calibration_framework
 
 - There are two codes in this repository. The 'efficiency.ipynb' code refers to the automatic efficiency determination process. The 'heat_source_parameters.ipynb' code refers to the automatic heat source radii determination.
 
